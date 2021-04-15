@@ -1,6 +1,6 @@
 
 :Title: SISO Copyright
-//:titletext: Draft SISO Copyright
+:titletext: Draft SISO Copyright
 :doctype: book
 :encoding: utf-8
 :lang: en
@@ -15,8 +15,8 @@
 
 Copyright © 2021 by the Simulation Interoperability Standards Organization, Inc.
 
-7901 4th St N.
-Suite 300
+7901 4th St N.,
+Suite 300,
 St. Petersburg, FL  33702
 
 All rights reserved, worldwide.
@@ -34,7 +34,7 @@ Documentation: SISO Inc. hereby grants a general, royalty-free license to copy, 
 SISO Inc. Board of Directors
 
 7901 4th St N.
-Suite 300
+Suite 300,
 St. Petersburg, FL  33702
 
 [cols = "^", frame = "none"]
