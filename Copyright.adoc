@@ -13,29 +13,29 @@
 
 = {title}
 
-Copyright © 2020 by the Simulation Interoperability Standards Organization, Inc.
+Copyright © 2021 by the Simulation Interoperability Standards Organization, Inc.
 
-P.O. Box 781238
+7901 4th St N.
+Suite 300
+St. Petersburg, FL  33702
 
-Orlando, FL 32878-1238, USA
-
-All rights reserved.
-
-
-
-Schema and API: SISO hereby grants a general, royalty-free license to copy, distribute, display, and make derivative works from this material, for all purposes, provided that any use of the material contains the following attribution: “Reprinted with permission from SISO Inc.” Should a reader require additional information, contact the SISO Inc. Board of Directors.
+All rights reserved, worldwide.
 
 
+/ Changed SISO to SISO, Inc. everywhere in this document because 'SISO' isn't a legal entity and can't grant anything
+Schemas and APIs, including Documentation: SISO Inc. hereby grants a general, royalty-free license to copy, distribute, display, and make derivative works from this material, for all purposes, provided that any use of the material contains the following attribution: “Reprinted with permission from SISO Inc.” Should a reader require additional information, contact the SISO Inc. Board of Directors.
 
-Documentation: SISO hereby grants a general, royalty-free license to copy, distribute, display, and make derivative works from this material, for noncommercial purposes, provided that any use of the material contains the following attribution: “Reprinted with permission from SISO Inc.” The material may not be used for a commercial purpose without express written permission from the SISO Inc. Board of Directors.
+
+
+Documentation: SISO Inc. hereby grants a general, royalty-free license to copy, distribute, display, and make derivative works from this material, for noncommercial purposes, provided that any use of the material contains the following attribution: “Reprinted with permission from SISO Inc.” The material may not be used for a commercial purpose without express written permission from the SISO Inc. Board of Directors.
 
 
 
 SISO Inc. Board of Directors
 
-P.O. Box 781238
-
-Orlando, FL 32878-1238, USA
+7901 4th St N.
+Suite 300
+St. Petersburg, FL  33702
 
 [cols = "^", frame = "none"]
 |===
