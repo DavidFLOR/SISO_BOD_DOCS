@@ -22,7 +22,7 @@ St. Petersburg, FL  33702
 All rights reserved, worldwide.
 
 
-/ Changed SISO to SISO, Inc. everywhere in this document because 'SISO' isn't a legal entity and can't grant anything
+//Changed SISO to SISO, Inc. everywhere in this document because 'SISO' isn't a legal entity and can't grant anything
 Schemas and APIs, including Documentation: SISO Inc. hereby grants a general, royalty-free license to copy, distribute, display, and make derivative works from this material, for all purposes, provided that any use of the material contains the following attribution: “Reprinted with permission from SISO Inc.” Should a reader require additional information, contact the SISO Inc. Board of Directors.
 
 
