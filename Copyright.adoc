@@ -1,6 +1,6 @@
 
 :Title: SISO Copyright
-:titletext: Draft SISO Copyright
+//:titletext: Draft SISO Copyright
 :doctype: book
 :encoding: utf-8
 :lang: en
